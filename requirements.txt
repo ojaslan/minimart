@@ -1,3 +1,10 @@
 streamlit
+google
+streamlit
+google-generativeai
 python-dotenv
-payman-sdk
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+paymanai
